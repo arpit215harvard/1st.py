@@ -1,7 +1,7 @@
 import turtle
 pen = turtle.Turtle()
 pen.color("blue")
-// pen.speed(5)
+pen.speed(5)
 
 for i in range(7):
     pen.circle(100,60)
